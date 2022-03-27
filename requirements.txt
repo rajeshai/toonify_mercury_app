@@ -1,6 +1,4 @@
--f https://download.pytorch.org/whl/torch_stable.html
 python==3.6
 mercury
 Pillow
-torch==1.8.1+cpu 
-torchvision==0.9.1+cpu
+http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
