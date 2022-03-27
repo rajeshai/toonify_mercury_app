@@ -1,4 +1,3 @@
 mercury
 Pillow
 torchvision
-torch
