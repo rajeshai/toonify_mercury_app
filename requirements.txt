@@ -1,0 +1,4 @@
+mercury
+Pillow
+torchvision
+torch
