@@ -1,4 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
+python==3.6
 mercury
 Pillow
 torch==1.8.1+cpu 
