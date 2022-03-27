@@ -1,3 +1,3 @@
 mercury
 Pillow
-torch-0.4.0
+https://download.pytorch.org/whl/cpu/torch-1.11.0%2Bcpu-cp310-cp310-win_amd64.whl
