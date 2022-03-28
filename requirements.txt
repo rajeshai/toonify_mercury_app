@@ -1,5 +1,5 @@
 mljar-mercury
-Pillow
+Pillow<7
 https://download.pytorch.org/whl/cpu/torch-1.11.0%2Bcpu-cp310-cp310-linux_x86_64.whl
 torchvision==0.2.2
 jinja2==3.0.3
